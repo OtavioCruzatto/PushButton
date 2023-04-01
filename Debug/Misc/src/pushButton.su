@@ -1,0 +1,4 @@
+../Misc/src/pushButton.c:10:6:pushButtonInit	24	static
+../Misc/src/pushButton.c:41:12:pushButtonReadSinglePressInRelease	24	static
+../Misc/src/pushButton.c:73:12:pushButtonReadContinuousPress	24	static
+../Misc/src/pushButton.c:123:12:pushButtonReadSingleAndContinuousPress	24	static
